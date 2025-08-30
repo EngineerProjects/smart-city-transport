@@ -1,6 +1,8 @@
 numpy
 pyarrow
 pandas
+requests
+tqdm
 openmeteo-requests
 requests-cache
 retry-requests

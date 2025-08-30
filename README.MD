@@ -58,21 +58,6 @@ Transportation is the backbone of urban life and generates massive, rich dataset
 - **API**: FastAPI or Flask
 - **Deployment**: Docker containers
 
-## Repository Structure
-
-```
-smart-city-iot-platform/
-├── data/              # Raw data storage
-├── dbt/               # dbt models and tests
-├── airflow/           # DAGs and operators
-├── src/               # Python utilities
-├── frontend/          # React dashboard
-├── docker/            # Container configurations
-├── docs/              # Documentation
-├── PROJECT_PLAN.md    # Detailed execution roadmap
-└── README.md          # This file
-```
-
 ## Success Metrics
 
 ### Data Engineering KPIs
@@ -103,6 +88,10 @@ pip -r requirements.txt
 docker --version
 docker-compose --version
 ```
+
+Read [datas/Instruction.md](datas/Instruction.md) to download all needed datas to start.
+
+
 ## Project Status
 
 **Current Phase**: Project Foundation & Requirements

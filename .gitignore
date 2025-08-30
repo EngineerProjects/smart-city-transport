@@ -35,3 +35,6 @@ Desktop.ini
 *.swp
 *.lock
 *.orig
+
+# data
+data/
