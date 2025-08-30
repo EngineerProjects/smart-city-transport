@@ -15,6 +15,12 @@ Transportation is the backbone of urban life and generates massive, rich dataset
 
 **Weather-Driven Demand Forecasting**: Predict hourly taxi demand by NYC zone using weather and air quality conditions to optimize driver allocation and reduce passenger wait times during weather events.
 
+See :
+
+- [docs/0_PROJECT_PLAN.md](docs/0_PROJECT_PLAN.md) for detailed execution roadmap and task breakdown.
+- [docs/1_probematic.md](docs/1_probematic.md) for the problem definition
+- [datas/Instruction.md](datas/Instruction.md) to download all needed datas to start.
+
 ## Data Sources
 
 ### Primary Dataset
@@ -89,9 +95,6 @@ docker --version
 docker-compose --version
 ```
 
-Read [datas/Instruction.md](datas/Instruction.md) to download all needed datas to start.
-
-
 ## Project Status
 
 **Current Phase**: Project Foundation & Requirements
@@ -99,9 +102,6 @@ Read [datas/Instruction.md](datas/Instruction.md) to download all needed datas t
 - [x] Business problem definition (weather-driven demand forecasting)  
 - [ ] Technology stack finalization
 - [ ] Data architecture design
-
-See [docs/0_PROJECT_PLAN.md](docs/0_PROJECT_PLAN.md) for detailed execution roadmap and task breakdown.
-Look [docs/1_probematic.md](docs/1_probematic.md) for the problem definition
 
 ## Contributing
 
